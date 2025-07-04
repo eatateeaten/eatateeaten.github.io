@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://eatateeaten.github.io/sitemap.xml
